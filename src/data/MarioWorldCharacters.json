@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Mario",
+    "descripton": "The main plumber",
+    "image": "mario.png"
+  },
+  {
+    "id": 2,
+    "name": "Lugi",
+    "descripton": "Side kick",
+    "image": "Lugi.jpg"
+  },
+  {
+    "id": 3,
+    "name": "pincess",
+    "descripton": "Always in the wrong castle",
+    "image": "princess.png"
+  },
+  {
+    "id": 1,
+    "name": "Bowser",
+    "descripton": "Big bad guy, might be dinsasour",
+    "image": "bowser.jpeg"
+  }
+]
